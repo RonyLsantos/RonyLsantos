@@ -19,7 +19,7 @@
   <a href = "mailto:rony_lsantos@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rony-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5511940361141"><img src="https://img.shields.io/badge/-Whatsapp-%7289DA?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_blank"></a>
- 
+ </div>
  ![snake gif](https://github.com/RonyLsantos/RonyLsantos/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
