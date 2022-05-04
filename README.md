@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/rony-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://wa.me/5511940361141"><img src="https://img.shields.io/badge/-Whatsapp-%7289DA?style=for-the-badge&logo=Whatsapp&logoColor=green" target="_blank"></a>
  
-  ![Snake animation](https://github.com/RonyLsantos/RonyLsantos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ronylsantos/ronylsantos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
